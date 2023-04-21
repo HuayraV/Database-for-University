@@ -1,2 +1,2 @@
-# Database-for-University
+# Database for University
 Soon
